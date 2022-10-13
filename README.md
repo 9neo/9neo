@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @9neo
-- 👀 I’m interested in Dev stuff
+- 👀 I’m interested in Dev
 - 🌱 I’m currently learning alot of boring stuff 
 
 <!---
